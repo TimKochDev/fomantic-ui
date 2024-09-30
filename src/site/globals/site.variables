@@ -2,4 +2,5 @@
      User Global Variables
 *******************************/
 
+@headerFont: "Logo Font", @fontName, @fallbackFonts;
 @normal: 300;

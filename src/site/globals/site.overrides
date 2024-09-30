@@ -19,3 +19,9 @@
   font-display: swap;
   text-rendering: optimizeLegibility;
 }
+
+@font-face {
+  font-family: "Logo Font"; 
+  src: url("./themes/default/assets/fonts/OptimaLTPro-Roman.woff2") format("woff2");
+  font-style: normal;
+}
