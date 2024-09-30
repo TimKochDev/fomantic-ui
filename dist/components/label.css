@@ -342,7 +342,6 @@ a.ui.label {
 .ui.ribbon.label {
   position: relative;
   margin: 0;
-  min-width: -webkit-max-content;
   min-width: max-content;
   border-radius: 0 0.28571429rem 0.28571429rem 0;
   border-color: rgba(0, 0, 0, 0.15);
