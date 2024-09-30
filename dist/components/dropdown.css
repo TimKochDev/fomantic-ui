@@ -111,7 +111,7 @@
   color: rgba(0, 0, 0, 0.87);
   padding: 0.78571429rem 1.14285714rem;
   text-transform: none;
-  font-weight: normal;
+  font-weight: 300;
   box-shadow: none;
   -webkit-touch-callout: none;
 }
@@ -210,7 +210,7 @@
 ------------------- */
 .ui.dropdown .menu > .message {
   padding: 0.78571429rem 1.14285714rem;
-  font-weight: normal;
+  font-weight: 300;
 }
 .ui.dropdown .menu > .message:not(.ui) {
   color: rgba(0, 0, 0, 0.4);
@@ -566,7 +566,7 @@ select.ui.dropdown {
 
 /* Visible */
 .ui.selection.visible.dropdown > .text:not(.default) {
-  font-weight: normal;
+  font-weight: 300;
   color: rgba(0, 0, 0, 0.8);
 }
 

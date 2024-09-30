@@ -563,7 +563,7 @@ ul.ui.list li::before,
   position: absolute;
   top: auto;
   left: auto;
-  font-weight: normal;
+  font-weight: 300;
   margin-left: -1.25rem;
   content: "\2022";
   opacity: 1;

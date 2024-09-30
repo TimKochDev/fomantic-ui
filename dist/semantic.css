@@ -447,7 +447,7 @@ template {
   font-family: "Lato";
   src: url("./themes/default/assets/fonts/LatoLatin-Regular.woff2") format("woff2") , url("./themes/default/assets/fonts/LatoLatin-Regular.woff") format("woff");
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
   font-display: swap;
   text-rendering: optimizeLegibility;
   unicode-range: U+0000, U+000D, U+0020-007E, U+00A0-017F, U+0192, U+0218-021B, U+0237, U+02C6-02C7, U+02C9, U+02D8-02DD, U+0394, U+03A9, U+03BC, U+03C0, U+1E80-1E85, U+2010, U+2013-2014, U+2018-201A, U+201C-201E, U+2020-2022, U+2026, U+2030, U+2039-203A, U+2044, U+20A3-20A4, U+20A7, U+20AC, U+2113, U+2122, U+2126, U+212E, U+2202, U+2206, U+220F, U+2211-2212, U+2215, U+2219-221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+25CA, U+F8FF, U+FB00-FB04;
@@ -467,7 +467,7 @@ template {
   font-family: "Lato";
   src: url("./themes/default/assets/fonts/LatoLatin-Italic.woff2") format("woff2") , url("./themes/default/assets/fonts/LatoLatin-Italic.woff") format("woff");
   font-style: italic;
-  font-weight: normal;
+  font-weight: 300;
   font-display: swap;
   text-rendering: optimizeLegibility;
   unicode-range: U+0000, U+000D, U+0020-007E, U+00A0-017F, U+0192, U+0218-021B, U+0237, U+02C6-02C7, U+02C9, U+02D8-02DD, U+0394, U+03A9, U+03BC, U+03C0, U+1E80-1E85, U+2010, U+2013-2014, U+2018-201A, U+201C-201E, U+2020-2022, U+2026, U+2030, U+2039-203A, U+2044, U+20A3-20A4, U+20A7, U+20AC, U+2113, U+2122, U+2126, U+212E, U+2202, U+2206, U+220F, U+2211-2212, U+2215, U+2219-221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+25CA, U+F8FF, U+FB00-FB04;
@@ -487,7 +487,7 @@ template {
   font-family: "Lato";
   src: url("./themes/default/assets/fonts/Lato-Regular.woff2") format("woff2") , url("./themes/default/assets/fonts/Lato-Regular.woff") format("woff");
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
   font-display: swap;
   text-rendering: optimizeLegibility;
   unicode-range: U+0180-0191, U+0193-0217, U+021C-0236, U+0238-02C5, U+02C8, U+02CA-02D7, U+02DE-036F, U+0374-0375, U+037A-037E, U+0384-038A, U+038C, U+038E-0393, U+0395-03A1, U+03A3-03A8, U+03AA-03BB, U+03BD-03BF, U+03C1-03CE, U+03D0-0486, U+0488-0513, U+1D00-1DCA, U+1DFE-1E7F, U+1E86-1E9B, U+1E9E, U+1EA0-1EF9, U+1F00-1F15, U+1F18-1F1D, U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57, U+1F59, U+1F5B, U+1F5D, U+1F5F-1F7D, U+1F80-1FB4, U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB, U+1FDD-1FEF, U+1FF2-1FF4, U+1FF6-1FFE, U+2000-200F, U+2012, U+2015-2017, U+201B, U+201F, U+202F, U+2034, U+203C-203E, U+205E-205F, U+2070-2071, U+2074-2094, U+20A0-20A2, U+20A5-20A6, U+20A8-20AB, U+20AD-20B5, U+20B8-20BA, U+20DD, U+2105, U+2116-2117, U+2120, U+2132, U+214D-214E, U+2153-215F, U+2183-2184, U+2190-2199, U+21A8, U+221F, U+2229, U+2261, U+2302, U+2310, U+2320-2321, U+2460-2473, U+24EA-24F4, U+24FF-2500, U+2502, U+250C, U+2510, U+2514, U+2518, U+2C60-2C6C, U+2C74-2C77;
@@ -507,7 +507,7 @@ template {
   font-family: "Lato";
   src: url("./themes/default/assets/fonts/Lato-Italic.woff2") format("woff2") , url("./themes/default/assets/fonts/Lato-Italic.woff") format("woff");
   font-style: italic;
-  font-weight: normal;
+  font-weight: 300;
   font-display: swap;
   text-rendering: optimizeLegibility;
   unicode-range: U+0180-0191, U+0193-0217, U+021C-0236, U+0238-02C5, U+02C8, U+02CA-02D7, U+02DE-036F, U+0374-0375, U+037A-037E, U+0384-038A, U+038C, U+038E-0393, U+0395-03A1, U+03A3-03A8, U+03AA-03BB, U+03BD-03BF, U+03C1-03CE, U+03D0-0486, U+0488-0513, U+1D00-1DCA, U+1DFE-1E7F, U+1E86-1E9B, U+1E9E, U+1EA0-1EF9, U+1F00-1F15, U+1F18-1F1D, U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57, U+1F59, U+1F5B, U+1F5D, U+1F5F-1F7D, U+1F80-1FB4, U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB, U+1FDD-1FEF, U+1FF2-1FF4, U+1FF6-1FFE, U+2000-200F, U+2012, U+2015-2017, U+201B, U+201F, U+202F, U+2034, U+203C-203E, U+205E-205F, U+2070-2071, U+2074-2094, U+20A0-20A2, U+20A5-20A6, U+20A8-20AB, U+20AD-20B5, U+20B8-20BA, U+20DD, U+2105, U+2116-2117, U+2120, U+2132, U+214D-214E, U+2153-215F, U+2183-2184, U+2190-2199, U+21A8, U+221F, U+2229, U+2261, U+2302, U+2310, U+2320-2321, U+2460-2473, U+24EA-24F4, U+24FF-2500, U+2502, U+250C, U+2510, U+2514, U+2518, U+2C60-2C6C, U+2C74-2C77;
@@ -736,6 +736,26 @@ input::selection {
 /*******************************
          Site Overrides
 *******************************/
+
+@font-face {
+  font-family: "Lato";
+  src: url("./themes/default/assets/fonts/lato-light.woff2") format("woff2"), url("./themes/default/assets/fonts/lato-light.woff") format("woff");
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  text-rendering: optimizeLegibility;
+  unicode-range: U+0180-0191, U+0193-0217, U+021C-0236, U+0238-02C5, U+02C8, U+02CA-02D7, U+02DE-036F, U+0374-0375, U+037A-037E, U+0384-038A, U+038C, U+038E-0393, U+0395-03A1, U+03A3-03A8, U+03AA-03BB, U+03BD-03BF, U+03C1-03CE, U+03D0-0486, U+0488-0513, U+1D00-1DCA, U+1DFE-1E7F, U+1E86-1E9B, U+1E9E, U+1EA0-1EF9, U+1F00-1F15, U+1F18-1F1D, U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57, U+1F59, U+1F5B, U+1F5D, U+1F5F-1F7D, U+1F80-1FB4, U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB, U+1FDD-1FEF, U+1FF2-1FF4, U+1FF6-1FFE, U+2000-200F, U+2012, U+2015-2017, U+201B, U+201F, U+202F, U+2034, U+203C-203E, U+205E-205F, U+2070-2071, U+2074-2094, U+20A0-20A2, U+20A5-20A6, U+20A8-20AB, U+20AD-20B5, U+20B8-20BA, U+20DD, U+2105, U+2116-2117, U+2120, U+2132, U+214D-214E, U+2153-215F, U+2183-2184, U+2190-2199, U+21A8, U+221F, U+2229, U+2261, U+2302, U+2310, U+2320-2321, U+2460-2473, U+24EA-24F4, U+24FF-2500, U+2502, U+250C, U+2510, U+2514, U+2518, U+2C60-2C6C, U+2C74-2C77;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("./themes/default/assets/fonts/lato-light-italic.woff2") format("woff2"), url("./themes/default/assets/fonts/lato-light-italic.woff") format("woff");
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  text-rendering: optimizeLegibility;
+  unicode-range: U+0180-0191, U+0193-0217, U+021C-0236, U+0238-02C5, U+02C8, U+02CA-02D7, U+02DE-036F, U+0374-0375, U+037A-037E, U+0384-038A, U+038C, U+038E-0393, U+0395-03A1, U+03A3-03A8, U+03AA-03BB, U+03BD-03BF, U+03C1-03CE, U+03D0-0486, U+0488-0513, U+1D00-1DCA, U+1DFE-1E7F, U+1E86-1E9B, U+1E9E, U+1EA0-1EF9, U+1F00-1F15, U+1F18-1F1D, U+1F20-1F45, U+1F48-1F4D, U+1F50-1F57, U+1F59, U+1F5B, U+1F5D, U+1F5F-1F7D, U+1F80-1FB4, U+1FB6-1FC4, U+1FC6-1FD3, U+1FD6-1FDB, U+1FDD-1FEF, U+1FF2-1FF4, U+1FF6-1FFE, U+2000-200F, U+2012, U+2015-2017, U+201B, U+201F, U+202F, U+2034, U+203C-203E, U+205E-205F, U+2070-2071, U+2074-2094, U+20A0-20A2, U+20A5-20A6, U+20A8-20AB, U+20AD-20B5, U+20B8-20BA, U+20DD, U+2105, U+2116-2117, U+2120, U+2132, U+214D-214E, U+2153-215F, U+2183-2184, U+2190-2199, U+21A8, U+221F, U+2229, U+2261, U+2302, U+2310, U+2320-2321, U+2460-2473, U+24EA-24F4, U+24FF-2500, U+2502, U+250C, U+2510, U+2514, U+2518, U+2C60-2C6C, U+2C74-2C77;
+}
 /*!
  * # Fomantic-UI 2.9.3 - Button
  * https://github.com/fomantic/Fomantic-UI/
@@ -1578,7 +1598,7 @@ input::selection {
 .ui.basic.button {
   background: transparent none;
   color: rgba(0, 0, 0, 0.6);
-  font-weight: normal;
+  font-weight: 300;
   border-radius: 0.28571429rem;
   text-transform: none;
   text-shadow: none !important;
@@ -1908,7 +1928,7 @@ input::selection {
   height: 1.78571429em;
   line-height: 1.78571429em;
   color: rgba(0, 0, 0, 0.4);
-  font-style: normal;
+  font-style: 300;
   font-weight: bold;
   box-shadow: 0 0 0 1px transparent inset;
 }
@@ -26689,7 +26709,7 @@ i.flag.united.nations::before {
 
 .ui.header .sub.header {
   display: block;
-  font-weight: normal;
+  font-weight: 300;
   padding: 0;
   margin: 0;
   font-size: 1rem;
@@ -27620,7 +27640,7 @@ a.ui.inverted.black.header.header.header:hover {
   font-family: "icons";
   src: url("./themes/default/assets/fonts/icons.woff2") format("woff2") , url("./themes/default/assets/fonts/icons.woff") format("woff");
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
   font-display: block;
   font-variant: normal;
   text-decoration: inherit;
@@ -27631,7 +27651,7 @@ a.ui.inverted.black.header.header.header:hover {
   font-family: "outline-icons";
   src: url("./themes/default/assets/fonts/outline-icons.woff2") format("woff2") , url("./themes/default/assets/fonts/outline-icons.woff") format("woff");
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
   font-display: block;
   font-variant: normal;
   text-decoration: inherit;
@@ -27642,7 +27662,7 @@ a.ui.inverted.black.header.header.header:hover {
   font-family: "brand-icons";
   src: url("./themes/default/assets/fonts/brand-icons.woff2") format("woff2") , url("./themes/default/assets/fonts/brand-icons.woff") format("woff");
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
   font-display: block;
   font-variant: normal;
   text-decoration: inherit;
@@ -27657,7 +27677,7 @@ i.icon {
   height: 1em;
   font-family: "icons";
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
   text-decoration: inherit;
   text-align: center;
   speak: none;
@@ -37073,7 +37093,7 @@ img.ui.bordered.image {
 
 .ui.input {
   position: relative;
-  font-weight: normal;
+  font-weight: 300;
   font-style: normal;
   display: inline-flex;
   color: rgba(0, 0, 0, 0.87);
@@ -41997,7 +42017,7 @@ ul.ui.list li::before,
   position: absolute;
   top: auto;
   left: auto;
-  font-weight: normal;
+  font-weight: 300;
   margin-left: -1.25rem;
   content: "\2022";
   opacity: 1;
@@ -45434,7 +45454,7 @@ ol.ui.suffixed.list li::before,
 /* Description */
 
 .ui.steps .step .description {
-  font-weight: normal;
+  font-weight: 300;
   font-size: 0.92857143em;
   color: rgba(0, 0, 0, 0.87);
 }
@@ -50770,7 +50790,7 @@ span.ui.massive.text {
   margin: 1rem 0;
   font-family: "Lato", system-ui, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   background: #fff;
-  font-weight: normal;
+  font-weight: 300;
   border: 1px solid rgba(34, 36, 38, 0.15);
   box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15);
   border-radius: 0.28571429rem;
@@ -50828,7 +50848,7 @@ span.ui.massive.text {
   padding: 0.92857143em 1.14285714em;
   text-transform: none;
   color: rgba(0, 0, 0, 0.87);
-  font-weight: normal;
+  font-weight: 300;
   transition: background 0.1s ease, box-shadow 0.1s ease, color 0.1s ease;
 }
 
@@ -50931,7 +50951,7 @@ span.ui.massive.text {
 .ui.vertical.menu .header.item {
   margin: 0;
   background: "";
-  text-transform: normal;
+  text-transform: 300;
   font-weight: bold;
 }
 
@@ -50977,7 +50997,7 @@ span.ui.massive.text {
   background: transparent !important;
   color: rgba(0, 0, 0, 0.87) !important;
   text-transform: none !important;
-  font-weight: normal !important;
+  font-weight: 300 !important;
   box-shadow: none !important;
   transition: none !important;
 }
@@ -51205,7 +51225,7 @@ span.ui.massive.text {
 .ui.menu .active.item {
   background: rgba(0, 0, 0, 0.05);
   color: rgba(0, 0, 0, 0.95);
-  font-weight: normal;
+  font-weight: 300;
   box-shadow: none;
 }
 
@@ -51914,7 +51934,7 @@ Floated Menu / Item
   align-self: center;
   margin: 0;
   padding: 0.35714286em 0.5em;
-  font-weight: normal;
+  font-weight: 300;
   color: rgba(0, 0, 0, 0.6);
   transition: opacity 0.1s ease;
 }
@@ -52002,7 +52022,7 @@ Floated Menu / Item
   background-color: transparent;
   border: none;
   box-shadow: none;
-  font-weight: normal;
+  font-weight: 300;
   color: rgba(0, 0, 0, 0.95);
 }
 
@@ -54107,8 +54127,8 @@ Floated Menu / Item
   color: rgba(0, 0, 0, 0.87);
   padding: 0.78571429em 0.78571429em;
   vertical-align: inherit;
-  font-style: normal;
-  font-weight: normal;
+  font-style: 300;
+  font-weight: 300;
   text-transform: none;
 }
 
@@ -54947,7 +54967,7 @@ Floated Menu / Item
 .ui.definition.table > thead:not(.full-width) > tr > th:first-child {
   pointer-events: none;
   background: #fff;
-  font-weight: normal;
+  font-weight: 300;
   color: rgba(0, 0, 0, 0.4);
   box-shadow: -0.1em -0.2em 0 0.1em #fff;
   -moz-transform: scale(1);
@@ -54960,7 +54980,7 @@ Floated Menu / Item
 .ui.definition.table > tfoot:not(.full-width) > tr > th:first-child {
   pointer-events: none;
   background: #fff;
-  font-weight: normal;
+  font-weight: 300;
   color: rgba(0, 0, 0, 0.4);
   box-shadow: -0.1em 0.2em 0 0.1em #fff;
   -moz-transform: scale(1);
@@ -57595,7 +57615,7 @@ Floated Menu / Item
 .ui.sortable.table > thead > tr > th::after {
   display: none;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
   text-decoration: inherit;
   content: "";
   height: 1em;
@@ -60999,9 +61019,9 @@ a.inverted.ui.card:hover,
   margin: -0.5rem 0 0;
   padding: 0;
   color: rgba(0, 0, 0, 0.4);
-  font-weight: normal;
+  font-weight: 300;
   font-size: 1em;
-  font-style: normal;
+  font-style: 300;
 }
 
 /* --------------
@@ -61034,9 +61054,9 @@ a.inverted.ui.card:hover,
 
 .ui.feed > .event > .content .summary > .date {
   display: inline-block;
-  font-weight: normal;
+  font-weight: 300;
   font-size: 0.85714286em;
-  font-style: normal;
+  font-style: 300;
   margin: 0 0 0 0.5em;
   padding: 0;
   color: rgba(0, 0, 0, 0.4);
@@ -62514,7 +62534,7 @@ a.inverted.ui.card:hover,
 .ui.statistic > .value {
   font-family: "Lato", system-ui, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 4rem;
-  font-weight: normal;
+  font-weight: 300;
   line-height: 1em;
   color: #1b1c1d;
   text-transform: uppercase;
@@ -65331,7 +65351,7 @@ body.dimmable > .dimmer {
   color: rgba(0, 0, 0, 0.87);
   padding: 0.78571429rem 1.14285714rem;
   text-transform: none;
-  font-weight: normal;
+  font-weight: 300;
   box-shadow: none;
   -webkit-touch-callout: none;
 }
@@ -65447,7 +65467,7 @@ body.dimmable > .dimmer {
 
 .ui.dropdown .menu > .message {
   padding: 0.78571429rem 1.14285714rem;
-  font-weight: normal;
+  font-weight: 300;
 }
 
 .ui.dropdown .menu > .message:not(.ui) {
@@ -65856,7 +65876,7 @@ select.ui.dropdown {
 /* Visible */
 
 .ui.selection.visible.dropdown > .text:not(.default) {
-  font-weight: normal;
+  font-weight: 300;
   color: rgba(0, 0, 0, 0.8);
 }
 
@@ -69657,8 +69677,8 @@ a.ui.nag {
   max-width: 250px;
   background: #fff;
   padding: 0.833em 1em;
-  font-weight: normal;
-  font-style: normal;
+  font-weight: 300;
+  font-style: 300;
   color: rgba(0, 0, 0, 0.87);
   border-radius: 0.28571429rem;
   box-shadow: 0 2px 4px 0 rgba(34, 36, 38, 0.12), 0 2px 10px 0 rgba(34, 36, 38, 0.15);
@@ -69731,8 +69751,8 @@ a.ui.nag {
   max-width: none;
   background: #fff;
   padding: 0.833em 1em;
-  font-weight: normal;
-  font-style: normal;
+  font-weight: 300;
+  font-style: 300;
   color: rgba(0, 0, 0, 0.87);
   border-radius: 0.28571429rem;
   box-shadow: 0 2px 4px 0 rgba(34, 36, 38, 0.12), 0 2px 10px 0 rgba(34, 36, 38, 0.15);
@@ -72848,7 +72868,7 @@ a.ui.nag {
   padding: 0;
   margin: 0;
   text-align: center;
-  font-weight: normal;
+  font-weight: 300;
   font-style: normal;
   flex: 1 0 auto;
   cursor: pointer;
@@ -73309,7 +73329,7 @@ a.ui.nag {
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
   text-shadow: none;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
   line-height: 1.21428571em;
   padding: 0.67857143em 1em;
   font-size: 1em;

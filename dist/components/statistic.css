@@ -81,7 +81,7 @@
 .ui.statistic > .value {
   font-family: "Lato", system-ui, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 4rem;
-  font-weight: normal;
+  font-weight: 300;
   line-height: 1em;
   color: #1b1c1d;
   text-transform: uppercase;

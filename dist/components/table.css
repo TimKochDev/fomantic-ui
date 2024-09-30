@@ -101,8 +101,8 @@
   color: rgba(0, 0, 0, 0.87);
   padding: 0.78571429em 0.78571429em;
   vertical-align: inherit;
-  font-style: normal;
-  font-weight: normal;
+  font-style: 300;
+  font-weight: 300;
   text-transform: none;
 }
 .ui.table > tfoot > tr > th:first-child,
@@ -777,7 +777,7 @@
 .ui.definition.table > thead:not(.full-width) > tr > th:first-child {
   pointer-events: none;
   background: #fff;
-  font-weight: normal;
+  font-weight: 300;
   color: rgba(0, 0, 0, 0.4);
   box-shadow: -0.1em -0.2em 0 0.1em #fff;
   -moz-transform: scale(1);
@@ -788,7 +788,7 @@
 .ui.definition.table > tfoot:not(.full-width) > tr > th:first-child {
   pointer-events: none;
   background: #fff;
-  font-weight: normal;
+  font-weight: 300;
   color: rgba(0, 0, 0, 0.4);
   box-shadow: -0.1em 0.2em 0 0.1em #fff;
   -moz-transform: scale(1);
@@ -3039,7 +3039,7 @@
 .ui.sortable.table > thead > tr > th::after {
   display: none;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
   text-decoration: inherit;
   content: "";
   height: 1em;
