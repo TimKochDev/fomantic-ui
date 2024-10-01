@@ -7,3 +7,4 @@
 
 
 @importFonts: false;
+@fontSize: 15px;
