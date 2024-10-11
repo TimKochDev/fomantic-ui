@@ -5,6 +5,7 @@ _For the Fomantic Ui documentation, see the original repository._
 1. Install this package directly from Github: `npm install https://github.com/TimKochDev/fomantic-ui#latest_commit_hash
 2. Import `fomantic-ui/dist/semantic.min.css` in your project.
 3. Set `font-weight: 300;` (recommendably in index.html)
+4. Use `letter-spacing: var(--logo-font-letter-spacing)` whereever you want to use the logo font.
 
 ## Troubleshooting
 
