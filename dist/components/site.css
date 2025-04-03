@@ -318,3 +318,10 @@ h5,
 h6 {
   letter-spacing: var(--logo-font-letter-spacing);
 }
+/* 
+* This prevents a bug affecting modals with centered=false and closeIcon. 
+* Depending on the screen size, the closeIcon is sometimes hidden under the brower's top bar and can't be clicked anymore.  
+*/
+.ui.modal.transition:has(> i.close.icon) {
+  margin-top: 2rem;
+}
